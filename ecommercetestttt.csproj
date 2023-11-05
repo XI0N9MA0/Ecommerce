@@ -213,6 +213,7 @@
       <DependentUpon>ITEM.cs</DependentUpon>
     </Compile>
     <Compile Include="Login.cs" />
+    <Compile Include="Panha.cs" />
     <Compile Include="Product.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
